@@ -14,3 +14,9 @@ print(thislist)
 thislist = ["apple", "banana", "cherry"]
 thislist.pop()
 print(thislist)
+
+
+#remove first item
+thislist = ["apple", "banana", "cherry"]
+del thislist[0]
+print(thislist)
