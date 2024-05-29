@@ -1,5 +1,4 @@
 a = 5
-
 b = 2
 
 # equal to operator
